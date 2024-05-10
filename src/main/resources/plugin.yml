@@ -1,0 +1,4 @@
+name: Minetopia-MongoDB
+version: '${project.version}'
+main: dev.kippie.minetopiamongodb.main
+api-version: '1.20'
